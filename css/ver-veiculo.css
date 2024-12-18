@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f5f5f5;
+}
+#slideShow {
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+}
+button {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #030c16;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    transform: scale(0.9);
+}
